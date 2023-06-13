@@ -194,7 +194,7 @@ int main() {
 	BinaryTree people;
 
 	ifstream file;
-	file.open("/home/218/database.txt");
+	file.open("database.txt");
 	if (file.fail()){
 		cout << "Couldn't Open the file :(";
 		exit(1);
