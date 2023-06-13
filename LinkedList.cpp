@@ -135,7 +135,7 @@ int main() {
 	int numPeople = 0;
 
 	ifstream file;
-	file.open("/home/218/database.txt");
+	file.open("database.txt");
 	if (file.fail()){
 		cout << "Couldn't Open te file :(";
 		exit(1);
