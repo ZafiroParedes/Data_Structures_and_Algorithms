@@ -5,7 +5,7 @@ Sorting algorithms are locted in the sorting folder. Algorithms avilable are:
 - Quick
 - Shaker
 
-The README file for compiling and running the sorting algorithms can be found here.
+The README file for compiling and running the sorting algorithms can be found [here](sorting/README.md).
 
 # Data Structures
 Data structures implemented are avilable in the repository. Data structures avilable are:
@@ -13,8 +13,8 @@ Data structures implemented are avilable in the repository. Data structures avil
 - Binary Tree
 - Hashtable
 
-## Linked List
+## Results
 
-## Binary Tree
+### Binary Tree
 
-## Hastable
+### Hastable
