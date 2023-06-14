@@ -20,7 +20,7 @@ This [database file](database.txt) used for the linked list and the binary tree 
 
 > social_security birthdate first_name last_name zip_code
 
-The other [database file]() used, called *named_places.txt* for the hashtable, has the following format for each line:
+The other [database file](named-places.txt) used, called *named_places.txt* for the hashtable, has the following format for each line:
 
 > numeric_code state_abbreviation place_name population area latitude longitude road_intersection_code intersection_distance
 
