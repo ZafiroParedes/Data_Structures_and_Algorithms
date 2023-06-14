@@ -38,9 +38,9 @@ This list of commands will run quicksort on 10 random strings
 The results of each sorting algorithm are shown below. Each run has a different number of random strings and the results show that the strings have been properly sorted with the verification of the testlib library. There is also details about how much time the program needed to sort the random strings along with the nlogn and the ratio.
 
 ### Quick Sort
-![quick sort run picture](pictures/quicksort.png)
+![quick sort run picture](pictures/quicksort.jpg)
 ### Merge Sort
-![merge sort run first picture](pictures/mergesort.png)
+![merge sort run first picture](pictures/mergesort.jpg)
 
-![merge sort run secound picture](pictures/mergesort2.png)
+![merge sort run secound picture](pictures/mergesort2.jpg)
 
