@@ -10,11 +10,12 @@ To run the shaker sort, type the command:
   `a.out`
   
 ## Executing Heap, Merge, and Quick Sorts
-To compile the heap, merge, and quick sorts, the testlib.cpp file needs to be run first:
+These sorts use a testlib library to provide randomly generated strings for the algorithm to sort and then provides tests to vaildate if the sorting was done correctly. The library also provides further details on the sorting algorithm such as total time for time complexity analysis.
+To use the testlib.cpp file, it needs to be compiled first:
 
   `g++ -c testlib.cpp`
   
-Then type the command:
+To compile the heap, merge, and quick sorts, type the command:
 
   `g++ sortFile.cpp testlib.o -o sortFile`
   
