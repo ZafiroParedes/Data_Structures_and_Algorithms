@@ -9,6 +9,10 @@ To run the shaker sort, type the command:
 
   `a.out`
   
+It will have the prompt to select a file with information for people. The used database file is [here](sorting/database_extra.txt) but other files with the following format can be used.
+
+> social_security birth_day birth_month birth_year first_name last_name bank_balance
+  
 ## Executing Heap, Merge, and Quick Sorts
 These sorts use a testlib library to provide randomly generated strings for the algorithm to sort and then provides tests to vaildate if the sorting was done correctly. The library also provides further details on the sorting algorithm such as total time for time complexity analysis.
 To use the testlib.cpp file, it needs to be compiled first:
@@ -37,6 +41,8 @@ This list of commands will run quicksort on 10 random strings
 ## Results
 The results of each sorting algorithm are shown below. Each run has a different number of random strings and the results show that the strings have been properly sorted with the verification of the testlib library. There is also details about how much time the program needed to sort the random strings along with the nlogn and the ratio.
 
+### Shaker Sort
+![shaker sort run picture](pictures/shakersort.jpg)
 ### Quick Sort
 ![quick sort run picture](pictures/quicksort.jpg)
 ### Merge Sort
