@@ -9,7 +9,7 @@ To run the shaker sort, type the command:
 
   `a.out`
   
-It will have the prompt to select a file with information for people. The used database file is [here](sorting/database_extra.txt) but other files with the following format can be used.
+It will have the prompt to select a file with information for people. The used database file is [here](database_extra.txt) but other files with the following format can be used.
 
 > social_security birth_day birth_month birth_year first_name last_name bank_balance
   
