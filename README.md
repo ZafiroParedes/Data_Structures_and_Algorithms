@@ -47,11 +47,11 @@ To run the hashtable, additional arguments are needed for the executable. The fo
 The results for the data structures implemented are shown below. 
 
 ### Binary Tree
-![binay tree first picture]()
+![binay tree first picture](images/binarytree.jpg)
 
-![binary tree secound picture]()
+![binary tree secound picture](images/binarytree2.jpg)
 
-![binary tree third picture]()
+![binary tree third picture](images/binarytree3.jpg)
 
 ### Hastable
-![hashtable picture]()
+![hashtable picture](images/hashtable.jpg)
