@@ -2,7 +2,7 @@
 
 ## Executing Shaker Sort
 To compile the ShakerSort file, type the command:
-  g++ ShakerSort.cpp
+  `g++ ShakerSort.cpp`
   
 To run the shaker sort, type the command:
   a.out
@@ -23,3 +23,10 @@ For example, the list of commands for quick sort:
   quicksort 10
   
 This list of commands will run quicksort on 10 random strings
+
+## Results
+The results of each sorting algorithm are shown below
+
+### Quick Sort
+
+### Merge Sort
