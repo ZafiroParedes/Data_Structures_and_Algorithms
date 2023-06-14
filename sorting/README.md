@@ -1,12 +1,13 @@
+#Sorting Algorithms
 
+##Executing Shaker Sort
 To compile the ShakerSort file, type the command:
   g++ ShakerSort.cpp
   
 To run the shaker sort, type the command:
   a.out
   
-  
-  
+##Executing Heap, Merge, and Quick Sorts
 To compile the heap, merge, and quick sorts, the testlib.cpp file needs to be run first:
   g++ -c testlib.cpp
 Then type the command:
