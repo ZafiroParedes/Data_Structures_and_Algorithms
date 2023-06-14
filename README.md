@@ -49,9 +49,9 @@ The results for the data structures implemented are shown below.
 ### Binary Tree
 ![binay tree first picture](images/binarytree.jpg)
 
-![binary tree secound picture](images/binarytree2.jpg)
+![binary tree secound picture](images/binarytree2.png)
 
-![binary tree third picture](images/binarytree3.jpg)
+![binary tree third picture](images/binarytree3.png)
 
 ### Hastable
 ![hashtable picture](images/hashtable.jpg)
