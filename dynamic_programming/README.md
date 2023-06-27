@@ -1,5 +1,7 @@
 _In Progress..._
 # Finding Maximum Amount of Missiles Hit
+_February 2022_
+
 Given a list of altitudes of where a set of missiles are currently at, dynamic programming is used to find the maximum number of missiles that could be hit with another missle going diagonally from the top left of a grid.
 
 ## Process
