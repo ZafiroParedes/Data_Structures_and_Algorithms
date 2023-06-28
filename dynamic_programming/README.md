@@ -1,4 +1,3 @@
-_In Progress..._
 # Finding Maximum Amount of Missiles Hit
 _February 2022_
 
