@@ -1,6 +1,5 @@
-_In Progress..._
 # Sudoku Solver by Backtracking
-March 2022
+_March 2022_
 
 ### What is backtracking?
 Backtracking is a brute force method that is meant to find all possible solutions. Utilizing constraints, solutions that do not satisfy them are discarded. 
